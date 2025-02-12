@@ -1,8 +1,9 @@
-# ibmcapstone
-IBM Capstone Project is the project I completed at the end of my IBM Data Analyst Specialization course (IBM, Issued Jan 2025
-Credential ID: KZL0GQ6WY5R3) course. In thsi project, I work with Stack Overflow Developer Survey data set and try to analyze the trends programming skills to be aware of the current and future interests of programmers. I clean the data using Phton Jupiter Notebook and cretae dashboards by using IBM COgnos. I summarize my findings in the PDF file of MehlikaOZsoy_capstone.pdf, while the project codes are in 
 
-Dashboard is given as:  
+The IBM Capstone Project marks the culmination of my IBM Data Analyst Specialization course (IBM, Issued January 2025, Credential ID: KZL0GQ6WY5R3). In this project, I analyzed the Stack Overflow Developer Survey dataset to identify and assess trends in programming skills, providing insights into the current and future interests of developers.
+
+I utilized Python in Jupyter Notebook for data cleaning and preprocessing, and created interactive dashboards using IBM Cognos to visualize the data. The detailed findings and analysis are summarized in the PDF document MehlikaOZsoy_capstone.pdf, while the associated project code can be found in the project repository.
+
+The dashboard can be accessed here: 
 
 https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2Bcapstone%2Bdashboard&action=view&mode=dashboard&subView=model00000194a5283d96_00000000
 
